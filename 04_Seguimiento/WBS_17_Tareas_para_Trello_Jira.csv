@@ -1,0 +1,18 @@
+﻿ID_WBS,Nombre_de_tarjeta,Lista_o_estado,Responsable_propuesto,Evidencia_local,Comentario_de_control,Fecha_de_registro
+1.1,1.1 · Definición de requerimientos y alcance,Plan documentado,Diego,02_Presentacion_EP6/,EP3 aprobada como documento; sin acta del cliente.,2026-11-09
+1.2,1.2 · Planificación y cronograma,Plan documentado,Diego,01_Informe_EP5/,Gantt de cinco semanas de EP3; no acreditar cumplimiento temporal.,2026-11-09
+1.3,1.3 · Seguimiento y gestión de riesgos,Demo parcial,Diego,04_Seguimiento/Plan_vs_Ejecucion.csv,El tablero local no equivale a actividad histórica en Trello.,2026-11-09
+1.4,1.4 · Presentación y defensa final,Pendiente exposición,Equipo,02_Presentacion_EP6/,Archivo listo; defensa y preguntas todavía no realizadas.,2026-11-09
+2.1,2.1 · Extracción de fuentes GPS y bip!,Demo parcial,Cristóbal,03_Prototipo_Datos_Simulados/src/generar_datos.py,Fuentes fabricadas; no existe extracción GPS/bip! reales.,2026-11-09
+2.2,2.2 · Anonimización de validaciones bip!,Pendiente con datos reales,Cristóbal,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,Se rechazan campos personales en demo; no constituye anonimización certificada de tarjetas reales.,2026-11-09
+2.3,2.3 · Limpieza e interpolación espacial,Demo parcial,Cristóbal,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,Esquema validado; no se implementó interpolación espacial real de GPS.,2026-11-09
+2.4,2.4 · Pipeline ETL automatizado,Demo parcial,Alfonso,03_Prototipo_Datos_Simulados/ejecutar_demo.py,"Pipeline completo con fuentes sintéticas, no producción.",2026-11-09
+3.1,3.1 · Análisis exploratorio (notebook EDA),Demo parcial,Diego,03_Prototipo_Datos_Simulados/EDA_Datos_SIMULADOS.ipynb,EDA sobre datos artificiales.,2026-11-09
+3.2,3.2 · Feature engineering,Demo parcial,Diego,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,Variable de demanda rezagada con filtración temporal controlada.,2026-11-09
+3.3,3.3 · Entrenamiento y ajuste del modelo,Demo parcial,Diego,03_Prototipo_Datos_Simulados/resultado/metricas_SIMULADAS.json,RF y regresión lineal regularizada comparados solo en datos ficticios.,2026-11-09
+3.4,3.4 · Evaluación MAE/RMSE y auditoría de equidad,Demo parcial,Diego,03_Prototipo_Datos_Simulados/resultado/mae_por_zona_SIMULADO.csv,Comparación técnica sin validación territorial real.,2026-11-09
+3.5,3.5 · Ajuste por equidad y empaquetado del modelo,Pendiente,Diego,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,No se implementó penalización de equidad ni empaquetado desplegable.,2026-11-09
+4.1,4.1 · Desarrollo dashboard Streamlit,App ejecutada localmente (informado); captura pendiente,Alfonso,03_Prototipo_Datos_Simulados/app_streamlit.py,App Streamlit incluida; el equipo indica haberla ejecutado localmente. Falta adjuntar captura verificable.,2026-11-09
+4.2,4.2 · Despliegue en entorno de pruebas,Demo parcial,Alfonso,03_Prototipo_Datos_Simulados/resultado/Dashboard_DEMO_Abrir.html,HTML local disponible; no hay despliegue institucional.,2026-11-09
+4.3,4.3 · Pruebas de aceptación con el cliente,Bloqueado sin cliente,Equipo/Cliente,04_Seguimiento/Registro_de_decisiones.md,"No existe acta, revisión ni aceptación del cliente.",2026-11-09
+4.4,4.4 · Documentación técnica y manual de usuario,Demo parcial,Alfonso,03_Prototipo_Datos_Simulados/README.md,"Documentación local, sin revisión de usuarios finales.",2026-11-09

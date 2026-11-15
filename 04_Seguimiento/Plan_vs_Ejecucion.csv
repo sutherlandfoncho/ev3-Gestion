@@ -1,0 +1,8 @@
+﻿Elemento del plan EP3,Planificado,Evidencia verificable de laboratorio,Estado real,Desviación / acción
+E1 - limpieza y ETL,Pipeline con GPS/bip! reales,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,Parcial · demo,Datos de entrada totalmente sintéticos; sustituir tras autorización
+E2 - análisis exploratorio,Notebook con perfiles territoriales,03_Prototipo_Datos_Simulados/EDA_Datos_SIMULADOS.ipynb,Parcial · demo,No hay perfilado de datos reales
+E3 - modelo,Modelo predictivo evaluado,03_Prototipo_Datos_Simulados/resultado/metricas_SIMULADAS.json,Parcial · demo,Sin evaluación operacional ni aprobación del cliente
+E4 - tablero,Dashboard Streamlit en entorno de pruebas,03_Prototipo_Datos_Simulados/resultado/Dashboard_DEMO_Abrir.html,Parcial · alternativa,HTML y app Streamlit local reportada; falta captura verificable y despliegue institucional
+E5 - documentación,Guía técnica y manual de usuario,03_Prototipo_Datos_Simulados/README.md,Parcial · demo,Requiere revisión por usuarios finales
+H1/H4 - validación,Cliente confirma metas y acepta entregas,Sin actas ni registros de aprobación,Pendiente,Obtener validación formal en contexto real
+Jira/Trello,Tablero digital de gestión,04_Seguimiento/Tablero_Offline_Abrir.html y CSV de importación,Alternativa local,Crear tablero real con cuenta conectada; guardar enlace/captura

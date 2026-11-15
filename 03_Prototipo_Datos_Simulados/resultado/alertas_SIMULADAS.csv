@@ -1,0 +1,427 @@
+﻿fecha,recorrido,comuna,franja,retraso_predicho_min
+2026-05-25,101,Santiago,AM,5.75
+2026-05-25,102,Providencia,AM,5.74
+2026-05-25,102,Providencia,PM,7.19
+2026-05-25,103,Ñuñoa,PM,7.7
+2026-05-25,104,Estación Central,AM,7.28
+2026-05-25,104,Estación Central,PM,8.75
+2026-05-25,201,Puente Alto,PM,6.05
+2026-05-25,202,La Pintana,AM,7.74
+2026-05-25,202,La Pintana,PM,8.82
+2026-05-25,203,Quilicura,AM,6.04
+2026-05-25,203,Quilicura,PM,5.21
+2026-05-25,204,Maipú,AM,11.07
+2026-05-25,204,Maipú,PM,7.35
+2026-05-26,101,Santiago,AM,5.77
+2026-05-26,101,Santiago,PM,6.45
+2026-05-26,102,Providencia,AM,7.73
+2026-05-26,102,Providencia,PM,7.99
+2026-05-26,103,Ñuñoa,AM,6.36
+2026-05-26,103,Ñuñoa,PM,6.28
+2026-05-26,104,Estación Central,AM,6.78
+2026-05-26,104,Estación Central,PM,8.07
+2026-05-26,201,Puente Alto,AM,7.54
+2026-05-26,201,Puente Alto,PM,6.51
+2026-05-26,202,La Pintana,AM,6.36
+2026-05-26,202,La Pintana,PM,8.55
+2026-05-26,202,La Pintana,Valle,5.59
+2026-05-26,203,Quilicura,AM,7.83
+2026-05-26,203,Quilicura,PM,5.44
+2026-05-26,204,Maipú,AM,10.27
+2026-05-26,204,Maipú,PM,6.86
+2026-05-27,101,Santiago,AM,6.02
+2026-05-27,101,Santiago,PM,5.61
+2026-05-27,102,Providencia,AM,9.18
+2026-05-27,102,Providencia,PM,10.53
+2026-05-27,103,Ñuñoa,AM,7.76
+2026-05-27,104,Estación Central,AM,6.61
+2026-05-27,104,Estación Central,PM,7.16
+2026-05-27,201,Puente Alto,AM,6.91
+2026-05-27,201,Puente Alto,PM,6.62
+2026-05-27,202,La Pintana,AM,8.8
+2026-05-27,202,La Pintana,PM,6.22
+2026-05-27,203,Quilicura,AM,7.49
+2026-05-27,203,Quilicura,PM,7.85
+2026-05-27,204,Maipú,AM,8.65
+2026-05-27,204,Maipú,PM,9.54
+2026-05-28,101,Santiago,AM,5.61
+2026-05-28,101,Santiago,PM,7.2
+2026-05-28,102,Providencia,AM,8.87
+2026-05-28,102,Providencia,PM,8.02
+2026-05-28,104,Estación Central,AM,7.52
+2026-05-28,104,Estación Central,PM,8.29
+2026-05-28,201,Puente Alto,AM,7.08
+2026-05-28,202,La Pintana,AM,5.19
+2026-05-28,202,La Pintana,PM,7.1
+2026-05-28,203,Quilicura,AM,7.81
+2026-05-28,204,Maipú,AM,8.78
+2026-05-28,204,Maipú,PM,10.0
+2026-05-28,204,Maipú,Valle,5.15
+2026-05-29,101,Santiago,PM,7.01
+2026-05-29,102,Providencia,AM,8.15
+2026-05-29,102,Providencia,PM,10.55
+2026-05-29,103,Ñuñoa,AM,5.38
+2026-05-29,103,Ñuñoa,PM,7.9
+2026-05-29,104,Estación Central,AM,7.51
+2026-05-29,104,Estación Central,PM,6.44
+2026-05-29,201,Puente Alto,AM,7.6
+2026-05-29,201,Puente Alto,PM,5.22
+2026-05-29,202,La Pintana,AM,7.51
+2026-05-29,202,La Pintana,PM,7.53
+2026-05-29,203,Quilicura,AM,7.44
+2026-05-29,203,Quilicura,PM,5.67
+2026-05-29,204,Maipú,AM,7.09
+2026-05-29,204,Maipú,PM,8.68
+2026-05-29,204,Maipú,Valle,5.15
+2026-05-30,202,La Pintana,AM,5.12
+2026-05-30,204,Maipú,PM,5.44
+2026-05-31,203,Quilicura,AM,5.53
+2026-05-31,204,Maipú,AM,5.75
+2026-06-01,101,Santiago,AM,6.65
+2026-06-01,101,Santiago,PM,5.53
+2026-06-01,102,Providencia,AM,9.15
+2026-06-01,102,Providencia,PM,7.56
+2026-06-01,103,Ñuñoa,AM,6.13
+2026-06-01,103,Ñuñoa,PM,6.98
+2026-06-01,104,Estación Central,AM,7.38
+2026-06-01,104,Estación Central,PM,7.24
+2026-06-01,201,Puente Alto,AM,7.08
+2026-06-01,201,Puente Alto,PM,7.7
+2026-06-01,202,La Pintana,AM,6.82
+2026-06-01,202,La Pintana,PM,6.91
+2026-06-01,203,Quilicura,AM,6.35
+2026-06-01,204,Maipú,AM,9.27
+2026-06-01,204,Maipú,PM,8.65
+2026-06-02,101,Santiago,AM,6.73
+2026-06-02,102,Providencia,AM,8.21
+2026-06-02,102,Providencia,PM,7.4
+2026-06-02,104,Estación Central,AM,6.3
+2026-06-02,104,Estación Central,PM,7.3
+2026-06-02,201,Puente Alto,AM,8.53
+2026-06-02,201,Puente Alto,PM,6.63
+2026-06-02,202,La Pintana,AM,8.71
+2026-06-02,202,La Pintana,PM,5.51
+2026-06-02,202,La Pintana,Valle,5.02
+2026-06-02,203,Quilicura,AM,6.23
+2026-06-02,203,Quilicura,PM,5.42
+2026-06-02,204,Maipú,AM,7.04
+2026-06-02,204,Maipú,PM,6.92
+2026-06-03,101,Santiago,AM,5.39
+2026-06-03,101,Santiago,PM,5.82
+2026-06-03,102,Providencia,AM,5.49
+2026-06-03,102,Providencia,PM,7.91
+2026-06-03,104,Estación Central,AM,6.47
+2026-06-03,104,Estación Central,PM,6.6
+2026-06-03,201,Puente Alto,AM,9.22
+2026-06-03,201,Puente Alto,PM,5.89
+2026-06-03,202,La Pintana,AM,7.44
+2026-06-03,202,La Pintana,PM,7.41
+2026-06-03,202,La Pintana,Valle,5.03
+2026-06-03,203,Quilicura,AM,7.98
+2026-06-03,204,Maipú,AM,8.89
+2026-06-03,204,Maipú,PM,10.36
+2026-06-04,101,Santiago,AM,7.27
+2026-06-04,101,Santiago,PM,6.99
+2026-06-04,102,Providencia,AM,8.08
+2026-06-04,102,Providencia,PM,10.47
+2026-06-04,103,Ñuñoa,PM,5.28
+2026-06-04,104,Estación Central,AM,8.6
+2026-06-04,104,Estación Central,PM,8.29
+2026-06-04,201,Puente Alto,AM,6.39
+2026-06-04,201,Puente Alto,PM,6.3
+2026-06-04,202,La Pintana,AM,7.69
+2026-06-04,202,La Pintana,PM,9.42
+2026-06-04,203,Quilicura,AM,7.28
+2026-06-04,204,Maipú,AM,7.71
+2026-06-04,204,Maipú,PM,7.43
+2026-06-05,101,Santiago,PM,5.02
+2026-06-05,102,Providencia,AM,7.0
+2026-06-05,102,Providencia,PM,7.49
+2026-06-05,103,Ñuñoa,AM,7.26
+2026-06-05,103,Ñuñoa,PM,6.35
+2026-06-05,104,Estación Central,AM,6.32
+2026-06-05,104,Estación Central,PM,7.1
+2026-06-05,201,Puente Alto,AM,5.67
+2026-06-05,201,Puente Alto,PM,7.62
+2026-06-05,202,La Pintana,AM,9.02
+2026-06-05,202,La Pintana,PM,6.0
+2026-06-05,203,Quilicura,AM,7.65
+2026-06-05,204,Maipú,AM,8.83
+2026-06-05,204,Maipú,PM,7.46
+2026-06-05,204,Maipú,Valle,5.77
+2026-06-06,201,Puente Alto,AM,5.3
+2026-06-06,202,La Pintana,AM,5.31
+2026-06-07,201,Puente Alto,PM,6.14
+2026-06-08,101,Santiago,AM,7.21
+2026-06-08,102,Providencia,AM,6.17
+2026-06-08,102,Providencia,PM,7.12
+2026-06-08,103,Ñuñoa,AM,7.16
+2026-06-08,103,Ñuñoa,PM,6.66
+2026-06-08,104,Estación Central,AM,8.51
+2026-06-08,104,Estación Central,PM,5.03
+2026-06-08,201,Puente Alto,AM,8.62
+2026-06-08,201,Puente Alto,PM,8.15
+2026-06-08,202,La Pintana,AM,7.98
+2026-06-08,202,La Pintana,PM,7.92
+2026-06-08,203,Quilicura,AM,7.94
+2026-06-08,203,Quilicura,PM,6.84
+2026-06-08,204,Maipú,AM,10.41
+2026-06-08,204,Maipú,PM,8.23
+2026-06-09,101,Santiago,AM,6.19
+2026-06-09,101,Santiago,PM,6.41
+2026-06-09,102,Providencia,AM,9.2
+2026-06-09,102,Providencia,PM,7.54
+2026-06-09,103,Ñuñoa,AM,7.08
+2026-06-09,103,Ñuñoa,PM,5.32
+2026-06-09,104,Estación Central,AM,9.79
+2026-06-09,104,Estación Central,PM,9.46
+2026-06-09,201,Puente Alto,AM,5.09
+2026-06-09,201,Puente Alto,PM,7.21
+2026-06-09,202,La Pintana,AM,6.04
+2026-06-09,202,La Pintana,PM,8.48
+2026-06-09,203,Quilicura,AM,5.92
+2026-06-09,203,Quilicura,PM,5.65
+2026-06-09,204,Maipú,AM,9.95
+2026-06-09,204,Maipú,PM,10.29
+2026-06-10,101,Santiago,AM,6.26
+2026-06-10,101,Santiago,PM,5.09
+2026-06-10,102,Providencia,AM,8.83
+2026-06-10,102,Providencia,PM,7.16
+2026-06-10,103,Ñuñoa,AM,7.92
+2026-06-10,103,Ñuñoa,PM,5.86
+2026-06-10,104,Estación Central,AM,6.82
+2026-06-10,104,Estación Central,PM,9.06
+2026-06-10,202,La Pintana,AM,8.73
+2026-06-10,202,La Pintana,PM,7.74
+2026-06-10,203,Quilicura,AM,6.61
+2026-06-10,203,Quilicura,PM,7.74
+2026-06-10,204,Maipú,AM,7.06
+2026-06-10,204,Maipú,PM,10.2
+2026-06-11,101,Santiago,AM,7.2
+2026-06-11,101,Santiago,PM,5.06
+2026-06-11,102,Providencia,AM,7.49
+2026-06-11,102,Providencia,PM,6.88
+2026-06-11,103,Ñuñoa,AM,5.39
+2026-06-11,103,Ñuñoa,PM,7.82
+2026-06-11,104,Estación Central,AM,9.01
+2026-06-11,104,Estación Central,PM,6.27
+2026-06-11,201,Puente Alto,AM,6.9
+2026-06-11,201,Puente Alto,PM,8.06
+2026-06-11,202,La Pintana,AM,5.56
+2026-06-11,202,La Pintana,PM,7.49
+2026-06-11,203,Quilicura,AM,7.63
+2026-06-11,203,Quilicura,PM,5.79
+2026-06-11,204,Maipú,AM,9.07
+2026-06-11,204,Maipú,PM,10.24
+2026-06-11,204,Maipú,Valle,5.02
+2026-06-12,101,Santiago,AM,6.52
+2026-06-12,101,Santiago,PM,6.06
+2026-06-12,102,Providencia,AM,9.47
+2026-06-12,102,Providencia,PM,7.07
+2026-06-12,103,Ñuñoa,PM,5.09
+2026-06-12,104,Estación Central,AM,8.06
+2026-06-12,104,Estación Central,PM,5.02
+2026-06-12,201,Puente Alto,AM,7.23
+2026-06-12,201,Puente Alto,PM,8.78
+2026-06-12,202,La Pintana,AM,7.29
+2026-06-12,202,La Pintana,PM,5.97
+2026-06-12,203,Quilicura,AM,6.58
+2026-06-12,203,Quilicura,PM,5.72
+2026-06-12,204,Maipú,AM,10.0
+2026-06-12,204,Maipú,PM,11.11
+2026-06-13,201,Puente Alto,AM,5.18
+2026-06-13,201,Puente Alto,PM,6.34
+2026-06-13,204,Maipú,PM,5.99
+2026-06-14,102,Providencia,AM,5.82
+2026-06-14,203,Quilicura,AM,5.84
+2026-06-14,204,Maipú,PM,5.99
+2026-06-15,101,Santiago,AM,6.21
+2026-06-15,101,Santiago,PM,6.02
+2026-06-15,102,Providencia,AM,8.56
+2026-06-15,102,Providencia,PM,10.57
+2026-06-15,103,Ñuñoa,AM,6.79
+2026-06-15,103,Ñuñoa,PM,5.4
+2026-06-15,104,Estación Central,AM,9.17
+2026-06-15,104,Estación Central,PM,7.87
+2026-06-15,201,Puente Alto,AM,8.23
+2026-06-15,201,Puente Alto,PM,6.13
+2026-06-15,202,La Pintana,AM,6.58
+2026-06-15,202,La Pintana,PM,6.59
+2026-06-15,203,Quilicura,AM,6.57
+2026-06-15,204,Maipú,AM,9.62
+2026-06-15,204,Maipú,PM,10.48
+2026-06-16,101,Santiago,AM,6.49
+2026-06-16,101,Santiago,PM,6.07
+2026-06-16,102,Providencia,AM,8.76
+2026-06-16,102,Providencia,PM,6.4
+2026-06-16,103,Ñuñoa,AM,5.44
+2026-06-16,103,Ñuñoa,PM,5.25
+2026-06-16,104,Estación Central,AM,9.55
+2026-06-16,104,Estación Central,PM,6.23
+2026-06-16,201,Puente Alto,AM,7.11
+2026-06-16,201,Puente Alto,PM,7.53
+2026-06-16,202,La Pintana,AM,7.87
+2026-06-16,202,La Pintana,PM,6.13
+2026-06-16,203,Quilicura,AM,6.64
+2026-06-16,203,Quilicura,PM,5.5
+2026-06-16,204,Maipú,AM,7.44
+2026-06-16,204,Maipú,PM,7.94
+2026-06-17,101,Santiago,AM,6.06
+2026-06-17,101,Santiago,PM,6.17
+2026-06-17,102,Providencia,AM,6.66
+2026-06-17,102,Providencia,PM,7.84
+2026-06-17,103,Ñuñoa,AM,6.25
+2026-06-17,104,Estación Central,AM,7.46
+2026-06-17,104,Estación Central,PM,7.01
+2026-06-17,201,Puente Alto,AM,5.99
+2026-06-17,201,Puente Alto,PM,7.61
+2026-06-17,202,La Pintana,AM,5.9
+2026-06-17,202,La Pintana,PM,7.18
+2026-06-17,203,Quilicura,AM,6.04
+2026-06-17,203,Quilicura,PM,5.73
+2026-06-17,204,Maipú,AM,7.18
+2026-06-17,204,Maipú,PM,7.17
+2026-06-18,101,Santiago,AM,7.12
+2026-06-18,101,Santiago,PM,6.09
+2026-06-18,102,Providencia,AM,7.15
+2026-06-18,102,Providencia,PM,10.24
+2026-06-18,103,Ñuñoa,AM,5.23
+2026-06-18,103,Ñuñoa,PM,5.05
+2026-06-18,104,Estación Central,AM,6.63
+2026-06-18,104,Estación Central,PM,8.32
+2026-06-18,201,Puente Alto,AM,7.42
+2026-06-18,201,Puente Alto,PM,8.56
+2026-06-18,202,La Pintana,AM,7.05
+2026-06-18,203,Quilicura,AM,5.87
+2026-06-18,203,Quilicura,PM,5.53
+2026-06-18,204,Maipú,AM,9.94
+2026-06-18,204,Maipú,PM,7.1
+2026-06-19,101,Santiago,AM,6.85
+2026-06-19,101,Santiago,PM,6.74
+2026-06-19,102,Providencia,AM,7.8
+2026-06-19,102,Providencia,PM,7.78
+2026-06-19,103,Ñuñoa,AM,6.93
+2026-06-19,104,Estación Central,AM,7.94
+2026-06-19,201,Puente Alto,AM,7.4
+2026-06-19,201,Puente Alto,PM,6.18
+2026-06-19,202,La Pintana,AM,7.21
+2026-06-19,202,La Pintana,PM,8.2
+2026-06-19,202,La Pintana,Valle,6.1
+2026-06-19,203,Quilicura,AM,6.36
+2026-06-19,203,Quilicura,PM,5.42
+2026-06-19,204,Maipú,AM,8.39
+2026-06-19,204,Maipú,PM,7.26
+2026-06-19,204,Maipú,Valle,5.17
+2026-06-20,102,Providencia,PM,5.26
+2026-06-20,202,La Pintana,PM,5.41
+2026-06-20,204,Maipú,PM,5.56
+2026-06-21,202,La Pintana,AM,5.58
+2026-06-21,203,Quilicura,AM,5.25
+2026-06-21,204,Maipú,PM,5.08
+2026-06-22,101,Santiago,PM,8.03
+2026-06-22,102,Providencia,AM,6.67
+2026-06-22,102,Providencia,PM,8.7
+2026-06-22,103,Ñuñoa,AM,7.48
+2026-06-22,103,Ñuñoa,PM,6.02
+2026-06-22,104,Estación Central,AM,7.83
+2026-06-22,104,Estación Central,PM,7.27
+2026-06-22,201,Puente Alto,AM,5.09
+2026-06-22,201,Puente Alto,PM,6.75
+2026-06-22,202,La Pintana,AM,6.03
+2026-06-22,202,La Pintana,PM,8.08
+2026-06-22,203,Quilicura,AM,6.65
+2026-06-22,203,Quilicura,PM,6.38
+2026-06-22,204,Maipú,AM,7.17
+2026-06-22,204,Maipú,PM,7.12
+2026-06-23,101,Santiago,AM,5.54
+2026-06-23,101,Santiago,PM,5.99
+2026-06-23,102,Providencia,AM,7.22
+2026-06-23,102,Providencia,PM,6.12
+2026-06-23,103,Ñuñoa,AM,5.97
+2026-06-23,104,Estación Central,AM,9.67
+2026-06-23,104,Estación Central,PM,7.76
+2026-06-23,201,Puente Alto,AM,7.51
+2026-06-23,202,La Pintana,AM,6.5
+2026-06-23,202,La Pintana,PM,5.54
+2026-06-23,203,Quilicura,AM,7.97
+2026-06-23,203,Quilicura,PM,5.99
+2026-06-23,204,Maipú,AM,8.18
+2026-06-23,204,Maipú,PM,7.64
+2026-06-24,101,Santiago,AM,6.41
+2026-06-24,101,Santiago,PM,7.69
+2026-06-24,102,Providencia,AM,8.07
+2026-06-24,102,Providencia,PM,7.89
+2026-06-24,104,Estación Central,AM,8.18
+2026-06-24,104,Estación Central,PM,6.89
+2026-06-24,201,Puente Alto,AM,7.85
+2026-06-24,201,Puente Alto,PM,7.66
+2026-06-24,202,La Pintana,AM,7.96
+2026-06-24,202,La Pintana,PM,7.28
+2026-06-24,203,Quilicura,AM,6.5
+2026-06-24,203,Quilicura,PM,6.0
+2026-06-24,204,Maipú,AM,9.59
+2026-06-24,204,Maipú,PM,6.26
+2026-06-24,204,Maipú,Valle,5.0
+2026-06-25,101,Santiago,AM,7.23
+2026-06-25,101,Santiago,PM,6.0
+2026-06-25,102,Providencia,AM,6.96
+2026-06-25,102,Providencia,PM,9.14
+2026-06-25,103,Ñuñoa,AM,7.93
+2026-06-25,103,Ñuñoa,PM,5.2
+2026-06-25,104,Estación Central,AM,6.85
+2026-06-25,104,Estación Central,PM,6.29
+2026-06-25,201,Puente Alto,AM,7.47
+2026-06-25,201,Puente Alto,PM,5.95
+2026-06-25,202,La Pintana,AM,6.69
+2026-06-25,202,La Pintana,PM,7.73
+2026-06-25,203,Quilicura,AM,8.05
+2026-06-25,203,Quilicura,PM,5.35
+2026-06-25,204,Maipú,AM,8.97
+2026-06-25,204,Maipú,PM,8.72
+2026-06-26,101,Santiago,AM,6.5
+2026-06-26,102,Providencia,AM,6.94
+2026-06-26,102,Providencia,PM,7.55
+2026-06-26,103,Ñuñoa,PM,5.09
+2026-06-26,104,Estación Central,AM,6.99
+2026-06-26,104,Estación Central,PM,5.88
+2026-06-26,201,Puente Alto,AM,6.67
+2026-06-26,201,Puente Alto,PM,8.54
+2026-06-26,202,La Pintana,AM,8.16
+2026-06-26,202,La Pintana,PM,7.22
+2026-06-26,202,La Pintana,Valle,5.36
+2026-06-26,203,Quilicura,AM,8.02
+2026-06-26,203,Quilicura,PM,5.9
+2026-06-26,204,Maipú,AM,8.9
+2026-06-26,204,Maipú,PM,8.88
+2026-06-27,202,La Pintana,PM,5.45
+2026-06-27,204,Maipú,AM,5.65
+2026-06-28,204,Maipú,PM,5.04
+2026-06-29,101,Santiago,AM,6.64
+2026-06-29,101,Santiago,PM,6.97
+2026-06-29,102,Providencia,AM,7.8
+2026-06-29,102,Providencia,PM,5.25
+2026-06-29,103,Ñuñoa,PM,6.52
+2026-06-29,104,Estación Central,AM,9.37
+2026-06-29,104,Estación Central,PM,7.95
+2026-06-29,201,Puente Alto,AM,7.24
+2026-06-29,201,Puente Alto,PM,7.87
+2026-06-29,202,La Pintana,AM,6.34
+2026-06-29,202,La Pintana,PM,7.45
+2026-06-29,203,Quilicura,AM,5.01
+2026-06-29,203,Quilicura,PM,5.48
+2026-06-29,204,Maipú,AM,8.8
+2026-06-29,204,Maipú,PM,6.68
+2026-06-30,101,Santiago,AM,6.68
+2026-06-30,102,Providencia,AM,6.97
+2026-06-30,102,Providencia,PM,7.54
+2026-06-30,103,Ñuñoa,PM,6.14
+2026-06-30,104,Estación Central,AM,7.4
+2026-06-30,104,Estación Central,PM,7.77
+2026-06-30,201,Puente Alto,AM,7.26
+2026-06-30,201,Puente Alto,PM,6.56
+2026-06-30,202,La Pintana,AM,9.15
+2026-06-30,202,La Pintana,PM,6.17
+2026-06-30,203,Quilicura,AM,6.06
+2026-06-30,203,Quilicura,PM,8.36
+2026-06-30,204,Maipú,AM,8.04
+2026-06-30,204,Maipú,PM,8.13

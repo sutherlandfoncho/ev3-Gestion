@@ -1,0 +1,13 @@
+test_entrenamiento_y_archivos (test_demo.TestDemo.test_entrenamiento_y_archivos) ... ok
+test_fuentes_son_solo_simuladas (test_demo.TestDemo.test_fuentes_son_solo_simuladas) ... ok
+test_generacion_rezago (test_demo.TestDemo.test_generacion_rezago) ... ok
+test_lineal_presente_en_salidas (test_demo.TestDemo.test_lineal_presente_en_salidas) ... ok
+test_rechazo_campo_personal (test_demo.TestDemo.test_rechazo_campo_personal) ... ok
+test_sin_filtracion_de_objetivo (test_demo.TestDemo.test_sin_filtracion_de_objetivo) ... ok
+test_sin_identificadores_de_pasajeros (test_demo.TestDemo.test_sin_identificadores_de_pasajeros) ... ok
+test_unicidad_clave_agregacion (test_demo.TestDemo.test_unicidad_clave_agregacion) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.977s
+
+OK

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "DEMO-01",
+    "titulo": "Generar datos GPS y bip! simulados",
+    "responsable": "Cristóbal (rol propuesto)",
+    "estado": "Completado · demo",
+    "fase": "Preparación",
+    "evidencia": "03_Prototipo_Datos_Simulados/datos/",
+    "detalle": "Generador Python; fuentes artificiales sin registros personales reales",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "DEMO-02",
+    "titulo": "Integrar fuentes por recorrido, fecha y franja",
+    "responsable": "Alfonso (rol propuesto)",
+    "estado": "Completado · demo",
+    "fase": "ETL",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/procesar_modelo.py",
+    "detalle": "Cruce reproducible, con detección de identificadores y demanda rezagada",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "DEMO-03",
+    "titulo": "Entrenar y evaluar Random Forest",
+    "responsable": "Diego (rol propuesto)",
+    "estado": "Completado · demo",
+    "fase": "Modelado",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/metricas_SIMULADAS.json",
+    "detalle": "Corte temporal, MAE, RMSE, línea base, errores por zona",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "DEMO-04",
+    "titulo": "Generar alertas y dashboard HTML",
+    "responsable": "Alfonso (rol propuesto)",
+    "estado": "Completado · demo",
+    "fase": "Visualización",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/Dashboard_DEMO_Abrir.html",
+    "detalle": "Dashboard HTML sin conexión, exclusivamente datos simulados",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "DEMO-05",
+    "titulo": "Ejecutar pruebas automáticas",
+    "responsable": "Equipo (rol propuesto)",
+    "estado": "Completado · demo",
+    "fase": "Calidad",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/pruebas_consola.txt",
+    "detalle": "7 casos aprobados; no son pruebas de aceptación con cliente",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-01",
+    "titulo": "Confirmar el cliente y alcance operativo",
+    "responsable": "Diego",
+    "estado": "Pendiente",
+    "fase": "Negocio",
+    "evidencia": "Sin acta de validación",
+    "detalle": "Metas, franjas, definición de retraso, umbrales y recorridos",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-02",
+    "titulo": "Obtener GPS y bip! reales con autorización",
+    "responsable": "Cliente / Cristóbal",
+    "estado": "Bloqueado · datos",
+    "fase": "Datos",
+    "evidencia": "No se recibió acceso real",
+    "detalle": "Revisión de permisos, trazabilidad, seguridad y calidad",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-03",
+    "titulo": "Validar anonimización y requisitos legales",
+    "responsable": "Cristóbal",
+    "estado": "Pendiente",
+    "fase": "Datos",
+    "evidencia": "No se han procesado datos personales reales",
+    "detalle": "Diseñar y revisar controles para un esquema real",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-04",
+    "titulo": "Entrenar y evaluar modelo con datos reales",
+    "responsable": "Diego",
+    "estado": "Bloqueado · datos",
+    "fase": "Modelado",
+    "evidencia": "No hay benchmark real",
+    "detalle": "Validación temporal, MAE/RMSE y brecha por zona sobre datos reales",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-05",
+    "titulo": "Revisión de la solución por el cliente",
+    "responsable": "Diego / Cliente",
+    "estado": "Pendiente",
+    "fase": "Aceptación",
+    "evidencia": "No hay aceptación de cliente",
+    "detalle": "Demostrar utilidad operativa y decidir si continúa a piloto real",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "REAL-06",
+    "titulo": "Despliegue a un entorno institucional autorizado",
+    "responsable": "Alfonso",
+    "estado": "Pendiente",
+    "fase": "Despliegue",
+    "evidencia": "No hay acceso a entorno institucional",
+    "detalle": "Seguridad, monitoreo de costos y accesos, mantenimiento",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "DEF-01",
+    "titulo": "Defensa EP6 de 10 minutos y preguntas",
+    "responsable": "Equipo",
+    "estado": "Pendiente",
+    "fase": "Defensa",
+    "evidencia": "Se completará después de la actividad",
+    "detalle": "Exponer evidencia técnica, responder preguntas y registrar retroalimentación",
+    "fecha_registro": "2026-11-09"
+  }
+]

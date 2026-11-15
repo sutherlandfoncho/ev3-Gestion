@@ -1,0 +1,155 @@
+[
+  {
+    "id": "1.1",
+    "titulo": "Definición de requerimientos y alcance",
+    "responsable_propuesto": "Diego",
+    "estado": "Plan documentado",
+    "evidencia": "02_Presentacion_EP6/",
+    "comentario": "EP3 aprobada como documento; sin acta del cliente.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "1.2",
+    "titulo": "Planificación y cronograma",
+    "responsable_propuesto": "Diego",
+    "estado": "Plan documentado",
+    "evidencia": "01_Informe_EP5/",
+    "comentario": "Gantt de cinco semanas de EP3; no acreditar cumplimiento temporal.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "1.3",
+    "titulo": "Seguimiento y gestión de riesgos",
+    "responsable_propuesto": "Diego",
+    "estado": "Demo parcial",
+    "evidencia": "04_Seguimiento/Plan_vs_Ejecucion.csv",
+    "comentario": "El tablero local no equivale a actividad histórica en Trello.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "1.4",
+    "titulo": "Presentación y defensa final",
+    "responsable_propuesto": "Equipo",
+    "estado": "Pendiente exposición",
+    "evidencia": "02_Presentacion_EP6/",
+    "comentario": "Archivo listo; defensa y preguntas todavía no realizadas.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "2.1",
+    "titulo": "Extracción de fuentes GPS y bip!",
+    "responsable_propuesto": "Cristóbal",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/generar_datos.py",
+    "comentario": "Fuentes fabricadas; no existe extracción GPS/bip! reales.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "2.2",
+    "titulo": "Anonimización de validaciones bip!",
+    "responsable_propuesto": "Cristóbal",
+    "estado": "Pendiente con datos reales",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/procesar_modelo.py",
+    "comentario": "Se rechazan campos personales en demo; no constituye anonimización certificada de tarjetas reales.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "2.3",
+    "titulo": "Limpieza e interpolación espacial",
+    "responsable_propuesto": "Cristóbal",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/procesar_modelo.py",
+    "comentario": "Esquema validado; no se implementó interpolación espacial real de GPS.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "2.4",
+    "titulo": "Pipeline ETL automatizado",
+    "responsable_propuesto": "Alfonso",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/ejecutar_demo.py",
+    "comentario": "Pipeline completo con fuentes sintéticas, no producción.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "3.1",
+    "titulo": "Análisis exploratorio (notebook EDA)",
+    "responsable_propuesto": "Diego",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/EDA_Datos_SIMULADOS.ipynb",
+    "comentario": "EDA sobre datos artificiales.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "3.2",
+    "titulo": "Feature engineering",
+    "responsable_propuesto": "Diego",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/procesar_modelo.py",
+    "comentario": "Variable de demanda rezagada con filtración temporal controlada.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "3.3",
+    "titulo": "Entrenamiento y ajuste del modelo",
+    "responsable_propuesto": "Diego",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/metricas_SIMULADAS.json",
+    "comentario": "RF y regresión lineal regularizada comparados solo en datos ficticios.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "3.4",
+    "titulo": "Evaluación MAE/RMSE y auditoría de equidad",
+    "responsable_propuesto": "Diego",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/mae_por_zona_SIMULADO.csv",
+    "comentario": "Comparación técnica sin validación territorial real.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "3.5",
+    "titulo": "Ajuste por equidad y empaquetado del modelo",
+    "responsable_propuesto": "Diego",
+    "estado": "Pendiente",
+    "evidencia": "03_Prototipo_Datos_Simulados/src/procesar_modelo.py",
+    "comentario": "No se implementó penalización de equidad ni empaquetado desplegable.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "4.1",
+    "titulo": "Desarrollo dashboard Streamlit",
+    "responsable_propuesto": "Alfonso",
+    "estado": "Código preparado; prueba pendiente",
+    "evidencia": "03_Prototipo_Datos_Simulados/app_streamlit.py",
+    "comentario": "App Streamlit incluida y ejecutada localmente según el equipo; falta una captura verificable antes de cerrar la tarea.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "4.2",
+    "titulo": "Despliegue en entorno de pruebas",
+    "responsable_propuesto": "Alfonso",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/resultado/Dashboard_DEMO_Abrir.html",
+    "comentario": "HTML local disponible; no hay despliegue institucional.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "4.3",
+    "titulo": "Pruebas de aceptación con el cliente",
+    "responsable_propuesto": "Equipo/Cliente",
+    "estado": "Bloqueado sin cliente",
+    "evidencia": "04_Seguimiento/Registro_de_decisiones.md",
+    "comentario": "No existe acta, revisión ni aceptación del cliente.",
+    "fecha_registro": "2026-11-09"
+  },
+  {
+    "id": "4.4",
+    "titulo": "Documentación técnica y manual de usuario",
+    "responsable_propuesto": "Alfonso",
+    "estado": "Demo parcial",
+    "evidencia": "03_Prototipo_Datos_Simulados/README.md",
+    "comentario": "Documentación local, sin revisión de usuarios finales.",
+    "fecha_registro": "2026-11-09"
+  }
+]

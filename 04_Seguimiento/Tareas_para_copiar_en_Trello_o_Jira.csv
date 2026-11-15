@@ -1,0 +1,13 @@
+﻿id,titulo,responsable,estado,fase,evidencia,detalle,fecha_registro
+DEMO-01,Generar datos GPS y bip! simulados,Cristóbal (rol propuesto),Completado · demo,Preparación,03_Prototipo_Datos_Simulados/datos/,Generador Python; fuentes artificiales sin registros personales reales,2026-11-09
+DEMO-02,"Integrar fuentes por recorrido, fecha y franja",Alfonso (rol propuesto),Completado · demo,ETL,03_Prototipo_Datos_Simulados/src/procesar_modelo.py,"Cruce reproducible, con detección de identificadores y demanda rezagada",2026-11-09
+DEMO-03,Entrenar y evaluar Random Forest,Diego (rol propuesto),Completado · demo,Modelado,03_Prototipo_Datos_Simulados/resultado/metricas_SIMULADAS.json,"Corte temporal, MAE, RMSE, línea base, errores por zona",2026-11-09
+DEMO-04,Generar alertas y dashboard HTML,Alfonso (rol propuesto),Completado · demo,Visualización,03_Prototipo_Datos_Simulados/resultado/Dashboard_DEMO_Abrir.html,"Dashboard HTML sin conexión, exclusivamente datos simulados",2026-11-09
+DEMO-05,Ejecutar pruebas automáticas,Equipo (rol propuesto),Completado · demo,Calidad,03_Prototipo_Datos_Simulados/resultado/pruebas_consola.txt,7 casos aprobados; no son pruebas de aceptación con cliente,2026-11-09
+REAL-01,Confirmar el cliente y alcance operativo,Diego,Pendiente,Negocio,Sin acta de validación,"Metas, franjas, definición de retraso, umbrales y recorridos",2026-11-09
+REAL-02,Obtener GPS y bip! reales con autorización,Cliente / Cristóbal,Bloqueado · datos,Datos,No se recibió acceso real,"Revisión de permisos, trazabilidad, seguridad y calidad",2026-11-09
+REAL-03,Validar anonimización y requisitos legales,Cristóbal,Pendiente,Datos,No se han procesado datos personales reales,Diseñar y revisar controles para un esquema real,2026-11-09
+REAL-04,Entrenar y evaluar modelo con datos reales,Diego,Bloqueado · datos,Modelado,No hay benchmark real,"Validación temporal, MAE/RMSE y brecha por zona sobre datos reales",2026-11-09
+REAL-05,Revisión de la solución por el cliente,Diego / Cliente,Pendiente,Aceptación,No hay aceptación de cliente,Demostrar utilidad operativa y decidir si continúa a piloto real,2026-11-09
+REAL-06,Despliegue a un entorno institucional autorizado,Alfonso,Pendiente,Despliegue,No hay acceso a entorno institucional,"Seguridad, monitoreo de costos y accesos, mantenimiento",2026-11-09
+DEF-01,Defensa EP6 de 10 minutos y preguntas,Equipo,Pendiente,Defensa,Se completará después de la actividad,"Exponer evidencia técnica, responder preguntas y registrar retroalimentación",2026-11-09

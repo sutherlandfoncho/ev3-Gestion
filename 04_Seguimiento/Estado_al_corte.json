@@ -1,0 +1,9 @@
+{
+  "fecha_corte": "2026-11-09 21:52 -03",
+  "actividades_del_tablero": 12,
+  "completadas_demo": 5,
+  "bloqueadas": 2,
+  "pendientes": 5,
+  "plan_original_actividades_WBS": 17,
+  "advertencia": "Las 12 tarjetas son un tablero de seguimiento resumido y no equivalen a las 17 actividades de la WBS."
+}
